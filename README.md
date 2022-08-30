@@ -12,6 +12,4 @@ http://mrl.cs.vsb.cz/eyedataset
 
 The libraries of python you need is stated below,
 
-for data preparation module (os, shutil, glob, tqdm).
-for main module(cv2, tensorflow, load_model, numpy, mixer).
-for model training(tensorflow, InceptionV3, ImageDataGenerator).
+for data preparation module (os, shutil, glob, tqdm), main module(cv2, tensorflow, load_model, numpy, mixer), model training(tensorflow, InceptionV3, ImageDataGenerator).
